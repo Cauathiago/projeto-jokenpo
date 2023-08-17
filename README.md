@@ -1,6 +1,9 @@
 # JOGO-JOKENPO
 🤖O JOGO Do Jokenpo COM MULTIPLAS Ações no jogo.
 
+Uploading Jokenpo.py - PROJETO-JOKENPO - Visual Studio Code 2023-08-16 22-56-17.mp4…
+
+https://github.com/Cauathiago/projeto-jokenpo/assets/116468083/6f0c74cb-5f82-4a41-a79d-b4c10020195d
 
 
 ## DESCRIÇÃO:
