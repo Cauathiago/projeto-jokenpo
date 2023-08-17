@@ -1,7 +1,9 @@
 # JOGO-JOKENPO
-⚽O JOGO Do Jokenpo COM MULTIPLAS Ações no jogo.
+🤖O JOGO Do Jokenpo COM MULTIPLAS Ações no jogo.
 
-## 🤖DESCRIÇÃO:
+
+
+## ESCRIÇÃO:
 Bem-vindo ao projeto "Jogo Jokenpo"! Este repositório contém uma implementação do clássico jogo da forca em Python. O jogo Jokenpo ou Pedra, papel e tesoura.
 
 ### 🤷‍♂️Como jogar o Jokenpo?
