@@ -1,5 +1,5 @@
 # JOGO-JOKENPO
-🤖O JOGO Do Jokenpo COM MULTIPLAS Ações no jogo.
+🤖O JOGO Do Jokenpo COM MULTIPLAS Ações no jogo, feito em python rodando no terminal.
 
 https://github.com/Cauathiago/projeto-jokenpo/assets/116468083/6f0c74cb-5f82-4a41-a79d-b4c10020195d
 
